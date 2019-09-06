@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sn_auth_token" label="Credential Value" language="en" table="var__m_sys_hub_step_ext_output_36974ed8dbf333008a672fb7489619eb">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_auth_token</element>
+            <help/>
+            <hint/>
+            <label>Credential Value</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_36974ed8dbf333008a672fb7489619eb</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-06 05:13:43</sys_created_on>
+            <sys_id>3e97061cdbf333008a672fb748961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Credential Value</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_401158_ipinfo_sp">9909615cdb7333008a672fb74896193c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">9909615cdb7333008a672fb74896193c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_36974ed8dbf333008a672fb7489619eb_sn_auth_token_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-06 05:13:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
